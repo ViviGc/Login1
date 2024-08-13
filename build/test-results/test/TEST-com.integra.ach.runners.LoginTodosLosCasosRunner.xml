@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.integra.ach.runners.LoginTodosLosCasosRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="PE-HO-065" time="0.0">
+  <properties/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[WARNING: Found tags option '@CPLA001,@CPLA002,@CPLA003,@CPLA004'. Support for '@tag1,@tag2' will be removed from the next release of Cucumber-JVM. Please use '@tag or @tag2' instead
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Pruebas Login
+]]></system-err>
+</testsuite>
